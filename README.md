@@ -1,16 +1,13 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**Redarek/Redarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Радмир Ибрагимов, инженер по тестированию
 
-Here are some ideas to get you started:
+### Вот что я умею
+- Java. [Репозиторий с дипломным проектом](https://github.com/Redarek/qa-diploma)
+- Java. [Домашние работы по курсу «Автоматизированное тестирование веб-приложений на Java»](https://github.com/Redarek/netology-qa-homeworks/blob/main/README.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сертификаты Нетологии
+- [Ручное тестирование веб-приложений](https://github.com/Redarek/Redarek/files/10227306/certificate.pdf)
+- [Git](https://github.com/Redarek/Redarek/files/10227313/git.cert.pdf)
+- [Java для тестировщиков](https://github.com/Redarek/Redarek/files/10227317/java.qa.cert.pdf)
+- [Автоматизированное тестирование веб-приложений на Java](https://github.com/Redarek/Redarek/files/10227329/auto.qa.cert.pdf)
