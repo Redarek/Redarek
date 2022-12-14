@@ -8,6 +8,7 @@
   - [Домашние работы](https://github.com/Redarek/netology-qa-homeworks/blob/main/README.md)
 - JavaScript, NodeJS, MongoDB.
   - [Браузерная онлайн-NFT-игра в реальном времени с геймификацией учебных процессов](https://github.com/Redarek/big-bonch)
+    - Доступно на [хостинге](https://big-bonch.netlify.app/)
   - [Платформа с применением балльной системы для отслеживания задач, с графиками работы и календарем](https://github.com/Redarek/schedule-app)
 
 
