@@ -14,6 +14,6 @@
 
 ### Сертификаты Нетологии
 - [Ручное тестирование веб-приложений](https://github.com/Redarek/netology-qa-certificates/blob/master/manual%20qa.pdf)
-- [Git](https://github.com/Redarek/netology-qa-certificates/blob/master/git.pdf)
+- [Git – система контроля версий](https://github.com/Redarek/netology-qa-certificates/blob/master/git.pdf)
 - [Java для тестировщиков](https://github.com/Redarek/netology-qa-certificates/blob/master/java%20for%20qa.pdf)
 - [Автоматизированное тестирование веб-приложений на Java](https://github.com/Redarek/netology-qa-certificates/blob/master/java%20autotest%20for%20qa.pdf)
