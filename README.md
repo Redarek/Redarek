@@ -10,7 +10,7 @@
   - [Браузерная онлайн-NFT-игра в реальном времени с геймификацией учебных процессов](https://github.com/Redarek/big-bonch)
     - Можно посмотреть на [хостинге](https://big-bonch.netlify.app/)
 
-### Также работаю над закрытыми проектами в бренде одежды [RUSHOOLS](https://vk.com/ogoni_wr)
+#### Также работаю над закрытыми проектами в бренде одежды [RUSHOOLS](https://vk.com/ogoni_wr)
 - React, Typescript, NodeJS, MongoDB
   - Корпоративный веб-сервис с применением балльной системы для отслеживания задач, с графиками работы и календарем. Мною разработан backend приложения.
 - Google Apps Script, Google Sheets, Google Workspace platform.
